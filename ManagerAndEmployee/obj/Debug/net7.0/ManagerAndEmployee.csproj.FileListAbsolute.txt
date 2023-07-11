@@ -1,0 +1,15 @@
+G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\bin\Debug\net7.0\ManagerAndEmployee.exe
+G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\bin\Debug\net7.0\ManagerAndEmployee.deps.json
+G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\bin\Debug\net7.0\ManagerAndEmployee.runtimeconfig.json
+G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\bin\Debug\net7.0\ManagerAndEmployee.dll
+G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\bin\Debug\net7.0\ManagerAndEmployee.pdb
+G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\obj\Debug\net7.0\ManagerAndEmployee.csproj.AssemblyReference.cache
+G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\obj\Debug\net7.0\ManagerAndEmployee.GeneratedMSBuildEditorConfig.editorconfig
+G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\obj\Debug\net7.0\ManagerAndEmployee.AssemblyInfoInputs.cache
+G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\obj\Debug\net7.0\ManagerAndEmployee.AssemblyInfo.cs
+G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\obj\Debug\net7.0\ManagerAndEmployee.csproj.CoreCompileInputs.cache
+G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\obj\Debug\net7.0\ManagerAndEmployee.dll
+G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\obj\Debug\net7.0\refint\ManagerAndEmployee.dll
+G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\obj\Debug\net7.0\ManagerAndEmployee.pdb
+G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\obj\Debug\net7.0\ManagerAndEmployee.genruntimeconfig.cache
+G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\obj\Debug\net7.0\ref\ManagerAndEmployee.dll
