@@ -13,3 +13,6 @@ G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\obj\Debug\net7.0\r
 G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\obj\Debug\net7.0\ManagerAndEmployee.pdb
 G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\obj\Debug\net7.0\ManagerAndEmployee.genruntimeconfig.cache
 G:\Pravin_Saurabh workspace_dot_Net\dotnet\ManagerAndEmployee\obj\Debug\net7.0\ref\ManagerAndEmployee.dll
+C:\Users\PRAVIN NIRMAL\Source\Repos\.Net\ManagerAndEmployee\obj\Debug\net7.0\ManagerAndEmployee.dll
+C:\Users\PRAVIN NIRMAL\Source\Repos\.Net\ManagerAndEmployee\obj\Debug\net7.0\refint\ManagerAndEmployee.dll
+C:\Users\PRAVIN NIRMAL\Source\Repos\.Net\ManagerAndEmployee\obj\Debug\net7.0\ManagerAndEmployee.pdb
