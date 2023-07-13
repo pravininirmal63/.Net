@@ -1,0 +1,15 @@
+C:\Users\dac\source\repos\InterfacePractices\InterfacePractices\bin\Debug\net7.0\InterfacePractices.exe
+C:\Users\dac\source\repos\InterfacePractices\InterfacePractices\bin\Debug\net7.0\InterfacePractices.deps.json
+C:\Users\dac\source\repos\InterfacePractices\InterfacePractices\bin\Debug\net7.0\InterfacePractices.runtimeconfig.json
+C:\Users\dac\source\repos\InterfacePractices\InterfacePractices\bin\Debug\net7.0\InterfacePractices.dll
+C:\Users\dac\source\repos\InterfacePractices\InterfacePractices\bin\Debug\net7.0\InterfacePractices.pdb
+C:\Users\dac\source\repos\InterfacePractices\InterfacePractices\obj\Debug\net7.0\InterfacePractices.csproj.AssemblyReference.cache
+C:\Users\dac\source\repos\InterfacePractices\InterfacePractices\obj\Debug\net7.0\InterfacePractices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\source\repos\InterfacePractices\InterfacePractices\obj\Debug\net7.0\InterfacePractices.AssemblyInfoInputs.cache
+C:\Users\dac\source\repos\InterfacePractices\InterfacePractices\obj\Debug\net7.0\InterfacePractices.AssemblyInfo.cs
+C:\Users\dac\source\repos\InterfacePractices\InterfacePractices\obj\Debug\net7.0\InterfacePractices.csproj.CoreCompileInputs.cache
+C:\Users\dac\source\repos\InterfacePractices\InterfacePractices\obj\Debug\net7.0\InterfacePractices.dll
+C:\Users\dac\source\repos\InterfacePractices\InterfacePractices\obj\Debug\net7.0\refint\InterfacePractices.dll
+C:\Users\dac\source\repos\InterfacePractices\InterfacePractices\obj\Debug\net7.0\InterfacePractices.pdb
+C:\Users\dac\source\repos\InterfacePractices\InterfacePractices\obj\Debug\net7.0\InterfacePractices.genruntimeconfig.cache
+C:\Users\dac\source\repos\InterfacePractices\InterfacePractices\obj\Debug\net7.0\ref\InterfacePractices.dll

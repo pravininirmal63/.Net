@@ -1,0 +1,15 @@
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\bin\Debug\net7.0\AbstractClass.exe
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\bin\Debug\net7.0\AbstractClass.deps.json
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\bin\Debug\net7.0\AbstractClass.runtimeconfig.json
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\bin\Debug\net7.0\AbstractClass.dll
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\bin\Debug\net7.0\AbstractClass.pdb
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\obj\Debug\net7.0\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\obj\Debug\net7.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\obj\Debug\net7.0\AbstractClass.AssemblyInfoInputs.cache
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\obj\Debug\net7.0\AbstractClass.AssemblyInfo.cs
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\obj\Debug\net7.0\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\obj\Debug\net7.0\AbstractClass.dll
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\obj\Debug\net7.0\refint\AbstractClass.dll
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\obj\Debug\net7.0\AbstractClass.pdb
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\obj\Debug\net7.0\AbstractClass.genruntimeconfig.cache
+C:\Users\dac\source\repos\AbstractClass\AbstractClass\obj\Debug\net7.0\ref\AbstractClass.dll

@@ -1,0 +1,15 @@
+C:\Users\dac\source\repos\day4Practice\day4Practice\bin\Debug\net7.0\day4Practice.exe
+C:\Users\dac\source\repos\day4Practice\day4Practice\bin\Debug\net7.0\day4Practice.deps.json
+C:\Users\dac\source\repos\day4Practice\day4Practice\bin\Debug\net7.0\day4Practice.runtimeconfig.json
+C:\Users\dac\source\repos\day4Practice\day4Practice\bin\Debug\net7.0\day4Practice.dll
+C:\Users\dac\source\repos\day4Practice\day4Practice\bin\Debug\net7.0\day4Practice.pdb
+C:\Users\dac\source\repos\day4Practice\day4Practice\obj\Debug\net7.0\day4Practice.csproj.AssemblyReference.cache
+C:\Users\dac\source\repos\day4Practice\day4Practice\obj\Debug\net7.0\day4Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\source\repos\day4Practice\day4Practice\obj\Debug\net7.0\day4Practice.AssemblyInfoInputs.cache
+C:\Users\dac\source\repos\day4Practice\day4Practice\obj\Debug\net7.0\day4Practice.AssemblyInfo.cs
+C:\Users\dac\source\repos\day4Practice\day4Practice\obj\Debug\net7.0\day4Practice.csproj.CoreCompileInputs.cache
+C:\Users\dac\source\repos\day4Practice\day4Practice\obj\Debug\net7.0\day4Practice.dll
+C:\Users\dac\source\repos\day4Practice\day4Practice\obj\Debug\net7.0\refint\day4Practice.dll
+C:\Users\dac\source\repos\day4Practice\day4Practice\obj\Debug\net7.0\day4Practice.pdb
+C:\Users\dac\source\repos\day4Practice\day4Practice\obj\Debug\net7.0\day4Practice.genruntimeconfig.cache
+C:\Users\dac\source\repos\day4Practice\day4Practice\obj\Debug\net7.0\ref\day4Practice.dll
